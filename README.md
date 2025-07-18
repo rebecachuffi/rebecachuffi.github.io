@@ -6,7 +6,7 @@ Advisor: Prof. Wenliang Zhang
 Thesis: Ulrich Schur Bundles in Prime Characteristic p
 
 *   Master's in Mathematics (2014-2015)   
-University of Braslia (UnB), Brazil   
+University of Brasília (UnB), Brazil   
 Advisor: Prof. Cristina Acciarri   
 Thesis: Central-by-Finite Groups: Group Covers and a Problem by Paul Erdos
 

@@ -11,7 +11,7 @@ Advisor: Prof. Cristina Acciarri
 Thesis: Central-by-Finite Groups: Group Covers and a Problem by Paul Erdos
 
 *   Bachelor's Degree in Mathematics (2010-2013)   
-University of Braslia (UnB), Brazil
+University of Brasília (UnB), Brazil
 
  ---
 

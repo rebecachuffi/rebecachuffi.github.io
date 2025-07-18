@@ -5,7 +5,7 @@ University of Illinois at Chicago (UIC) Chicago, USA
 Advisor: Prof. Wenliang Zhang   
 Thesis: Ulrich Schur Bundles in Prime Characteristic p
 
-*   Master's in Mathematics (2014-2015)   
+*   Master's Degree in Mathematics (2014-2015)   
 University of Brasília (UnB), Brazil   
 Advisor: Prof. Cristina Acciarri   
 Thesis: Central-by-Finite Groups: Group Covers and a Problem by Paul Erdos

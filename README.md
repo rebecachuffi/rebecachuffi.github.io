@@ -21,5 +21,5 @@ University of Brasília (UnB), Brazil
 
 ## Projects 
 - [PUC Rio (2025) - Projeto Hapiness Score (Ciência de Dados)](https://github.com/rebecachuffi/mvp1/blob/main/MVP1_RebecaChuffi.ipynb)
-- [Projeto Plano de Saúde x Taxa de Churn (Ciência de Dados)]([https://github.com/rebecachuffi/mvp1/blob/main/MVP1_RebecaChuffi.ipynb](https://github.com/rebecachuffi/projetos/blob/main/Cassi_RebecaChuffi.ipynb)
+- [Projeto Plano de Saúde x Taxa de Churn (Ciência de Dados)](https://github.com/rebecachuffi/projetos/blob/main/Cassi_RebecaChuffi.ipynb)
 
